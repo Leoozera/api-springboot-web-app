@@ -1,0 +1,7 @@
+br/com/fiap/sprint3/controlllers/api/ApiVagaController.class
+br/com/fiap/sprint3/repositories/VagaRepository.class
+br/com/fiap/sprint3/Sprint3Application.class
+br/com/fiap/sprint3/models/Vaga.class
+br/com/fiap/sprint3/controlllers/IndexController.class
+br/com/fiap/sprint3/controlllers/api/advice/ValidationControllerAdvice.class
+br/com/fiap/sprint3/controlllers/api/advice/ValidacaoCampoError.class
